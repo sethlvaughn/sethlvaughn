@@ -1,4 +1,4 @@
-Hi! I am a fourth-year Computer Science student at the University of Maine seeking an internship or entry level position in software development/emgineering.
+Hi! I am a fourth-year Computer Science student at the University of Maine seeking an internship or entry level position in software development/engineering or information technology.
 
 <!--
 **sethlvaughn/sethlvaughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
